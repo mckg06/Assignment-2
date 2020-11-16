@@ -8,6 +8,11 @@
 .exp { 
     text-align: right;
 }
-.contact {text-align: right; text-align: end;}
+.contact {
+    text-align: right; text-align: end;
+}
+.title{
+    text-align: center;
+}
 
 }
