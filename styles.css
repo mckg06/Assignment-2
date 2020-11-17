@@ -1,0 +1,21 @@
+
+.image {
+    text-align: center;
+    border: 3 px solid black;}
+.about {
+    text-align: left;;
+}
+.exp { 
+    text-align: right;
+}
+.contact {
+    text-align: right; text-align: end;
+}
+.title{
+    text-align: center;
+}
+.header{
+    text-align: center;
+}
+
+}
