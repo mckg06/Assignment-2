@@ -1,7 +1,8 @@
 
 .image {
     text-align: center;
-    border: 3 px solid black;}
+    border: 3 px solid black;
+}
 .about {
     text-align: left;;
 }
@@ -18,4 +19,4 @@
     text-align: center;
 }
 
-}
+};
